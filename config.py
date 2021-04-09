@@ -1,1 +1,0 @@
-﻿TOKEN = '1658482486:AAEVfXEv4seRpNxvlSNMRNbX6qnXfZhJTvo' #bot token  
